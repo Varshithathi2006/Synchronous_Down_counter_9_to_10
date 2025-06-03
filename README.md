@@ -11,12 +11,10 @@ This project is developed as part of the **Elements of Computing** course at Amr
 ---
 
 ## 👩‍💻 Team Members
-
-- **Shreya Arun** – CB.SC.U4AIE23253  
-- **Varshitha Thilak Kumar** – CB.SC.U4AIE23258  
-- **Siri Sanjana Singareddy** – CB.SC.U4AIE23249  
-
-> Department: CEN, Amrita School of Artificial Intelligence, Amritapuri Campus
+- **Varshitha Thilak Kumar** – varshitha.9a2019@gmail.com
+- **Siri Sanjana S** – sirisanjana.singareddy@gmail.com
+- **Shreya Arun** – shreyaarun005@gmail.com 
+> Department: CEN, Amrita School of Artificial Intelligence, Coimbatore Campus
 
 ---
 
